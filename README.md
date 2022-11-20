@@ -1,1 +1,1 @@
-Pie Chart created using the library react-google-charts.
+Pie Chart was created using the library react-google-charts.
